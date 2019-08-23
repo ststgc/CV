@@ -41,9 +41,9 @@
   - 以下参照
 
 ### 言語
+- CSS
 - Javascript
 - HTML
-- CSS
 - Python
 - Ruby
 - 日本語
