@@ -44,8 +44,6 @@
 - CSS
 - Javascript
 - HTML
-- Python
-- Ruby
 - 日本語
 - 英語
   - ビジネスレベル
@@ -60,9 +58,6 @@
   - Adobe Illustrator
   - Adobe Photoshop
   - Adobe Lightroom
-- Adobe Premiere Pro
-  - 製品PVの企画・撮影・製作
-  - 運用広告用動画の企画・撮影・製作
 - UI/UX検証・実装
   - Figma
   - Sketch
