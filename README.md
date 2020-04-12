@@ -66,7 +66,8 @@
 
 
 ## 職務経歴
-### 2019/09： 株式会社overflow
+
+### 2019/09-現在： 株式会社overflow
 職務： Sales Manager, PM & Operations
 
 ### 職務内容
